@@ -1,10 +1,13 @@
 package com.pieli.algorithm.sorting;
 
-/**
- * 
- * @author pai.li
- *
- */
+/** 
+* @Title: quickSortProvider.java
+* @Package com.pieli.algorithm.sorting
+* @Description: 快速排序 
+* @author Pie.Li
+* @date 2013-2-18 下午2:46:01
+* @version V1.0 
+*/
 public class quickSortProvider {
 
 	
