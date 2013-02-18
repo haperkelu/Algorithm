@@ -1,15 +1,15 @@
 import org.junit.Before;
 import org.junit.Test;
-import com.pieli.algorithm.sorting.quickSortProvider;
+import com.pieli.algorithm.sorting.QuickSortProvider;
 
 
 public class sortingTetser {
 	
-	private quickSortProvider quickSortProviderInstance;
+	private QuickSortProvider quickSortProviderInstance;
 	
 	@Before
 	public void init(){
-		quickSortProviderInstance = new quickSortProvider();
+		quickSortProviderInstance = new QuickSortProvider();
 	}
 
 	@Test

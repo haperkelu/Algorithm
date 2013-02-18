@@ -8,9 +8,18 @@ package com.pieli.algorithm.sorting;
 * @date 2013-2-18 下午2:46:01
 * @version V1.0 
 */
-public class quickSortProvider {
+public class QuickSortProvider {
 
-	
+	/**
+	 * 
+	* @Title: sort
+	* @Description: 排序
+	* @param @param input
+	* @param @param beginPosition
+	* @param @param endPosition
+	* @return void
+	* @throws
+	 */
 	public void sort(double[] input, int beginPosition, int endPosition){
 		
 		//check para, suppress exception
